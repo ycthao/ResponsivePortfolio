@@ -9,6 +9,11 @@ index.html          - have information about me
 contact.html        - have my contact info on how to reach me
 portfolio.html      - to display the projects I have worked on.
 
+Must include:
+- A navbar
+- A responsive layout
+- Responsive images
+
 ## Portfolio link's ##
 
 Main page:
