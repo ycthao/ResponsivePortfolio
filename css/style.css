@@ -1,5 +1,5 @@
 body {
-    background: url(../Images/maxresdefault.jpg) no-repeat center center fixed;
+    background: url(../Images/WhiteFlowers.PNG) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -8,8 +8,9 @@ body {
    }
 
 .container {
-
-    background-color: #fdfcfc;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    /*background-color: #fdfcfc; */
 }
 
 .row {
