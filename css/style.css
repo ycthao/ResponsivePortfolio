@@ -1,8 +1,13 @@
 body {
+    background-image: url(../Images/maxresdefault.jpg);
+    background-size: cover;    
+    background-repeat: no-repeat;
+    background-position: center center;
     background-color: #343a40;
    }
 
 .container {
+
     background-color: #fdfcfc;
 }
 
