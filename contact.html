@@ -9,9 +9,9 @@
 
     <!-- Calling bootstrap css -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <!--
+
     <link rel="stylesheet" href="css/style.css">
-    -->
+
 </head>
 
 <body>
@@ -30,14 +30,34 @@
                 <a class="nav-link text-light" href="index.html">About</a>
             </li>
         </ul>
-
     </nav>
 
+    <section class="container">
+
+        <!-- Email form -->
+        <form>
+            <div class="col">
+                <div class="form-group">
+                    <label for="userEmail">Your Email address</label>
+                    <input type="email" class="form-control" id="userEmail" placeholder="your name@example.com">
+                </div>
+                <div class="form-group">
+                    <label for="userName">Your name</label>
+                    <input type="text" class="form-control" id="userName" placeholder="Your Name">
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Your message</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Send</button>
+            </div>
+        </form>
+    </section>
 
 
     <!-- Footer, copyright goes here -->
     <footer>
-        <p class="text-center dark">&copy; 2020 Copyright</p>
+        <p class="text-center dark">&copy; 2020 Copyright Yeem Chij Thao</p>
     </footer>
 
 </body>
