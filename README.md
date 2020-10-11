@@ -27,7 +27,7 @@ https://ycthao.github.io/ResponsivePortfolio/portfolio.html
 
 ## Screenshot ##
 
-![image](https://user-images.githubusercontent.com/71569747/95668425-8f4a8880-0b39-11eb-860e-b5f58a6f0cb4.png)
-![image](https://user-images.githubusercontent.com/71569747/95668429-9a9db400-0b39-11eb-9953-828d436057c0.png)
-![image](https://user-images.githubusercontent.com/71569747/95668432-abe6c080-0b39-11eb-9bde-37aadb06b9e1.png)
+![image](https://user-images.githubusercontent.com/71569747/95668740-970c2c00-0b3d-11eb-95b2-5b37c4172cda.png)
+![image](https://user-images.githubusercontent.com/71569747/95668747-a1c6c100-0b3d-11eb-9245-d6c4a0ddc17f.png)
+![image](https://user-images.githubusercontent.com/71569747/95668750-b2773700-0b3d-11eb-9ba4-d799130e4262.png)
 
