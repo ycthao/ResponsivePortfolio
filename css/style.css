@@ -8,9 +8,9 @@ body {
    }
 
 .container {
+    min-height: 100%;
     background: rgba(0, 0, 0, 0.5);
     color: #fff;
-    /*background-color: #fdfcfc; */
 }
 
 .row {
@@ -33,6 +33,16 @@ body {
 
 .card {
     padding: 20px;
+    background: none;
+    color: #fff;
+}
+
+
+footer {
     background: rgba(0, 0, 0, 0.5);
     color: #fff;
+    text-align: center;
+
+    bottom: 0;
+    width: 100%;
 }
